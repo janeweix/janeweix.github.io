@@ -32,11 +32,18 @@
 </li>
 <li><p>重新编译及部署：（hexo g -d）<br><code>hexo delpoy -g # 部署之前预先生成静态文件</code><br>成功后就可以登录 github 的项目路径查看到该网站；可以通过网址访问博客：https://用户名.github.io</p>
 </li>
-<li><p>其他命令<br>清除缓存。在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。<br><code>hexo clean    # 清除缓存文件 (db.json) 和已生成的静态文件 (public)。</code></p>
+</ol>
+<p><strong>7. 其他命令</strong></p>
+<ol>
+<li><p>清除缓存。在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。<br><code>hexo clean    # 清除缓存文件 (db.json) 和已生成的静态文件 (public)。</code></p>
 </li>
-<li><p>注意<br>最好把代码压缩一下，去掉多余的空格。</p>
+<li><p>常见命令</p>
+<figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">"postName"</span> #新建文章</span><br><span class="line">hexo new<span class="built_in"> page </span><span class="string">"pageName"</span> #新建页面</span><br></pre></td></tr></table></figure>
+
 </li>
 </ol>
+<p><strong>8. 注意</strong><br>最好把代码压缩一下，去掉多余的空格。</p>
+<p><strong>9. 独立域名</strong></p>
 <h1 id="访问量及字数的统计？"><a href="#访问量及字数的统计？" class="headerlink" title="访问量及字数的统计？"></a>访问量及字数的统计？</h1><p>字数统计插件：<a href="http://ibruce.info/2015/04/04/busuanzi/" target="_blank" rel="noopener">http://ibruce.info/2015/04/04/busuanzi/</a><br>插件的安装： <a href="https://hexo.io/plugins/" target="_blank" rel="noopener">https://hexo.io/plugins/</a></p>
 <h1 id="黑底的代码块怎么设置？"><a href="#黑底的代码块怎么设置？" class="headerlink" title="黑底的代码块怎么设置？"></a>黑底的代码块怎么设置？</h1><h1 id="博客如何接入评论系统？"><a href="#博客如何接入评论系统？" class="headerlink" title="博客如何接入评论系统？"></a>博客如何接入评论系统？</h1><p>根据需求决定要不要加评论的功能。</p>
 <h1 id="给博客增加搜索功能？"><a href="#给博客增加搜索功能？" class="headerlink" title="给博客增加搜索功能？"></a>给博客增加搜索功能？</h1><h1 id="主题特性"><a href="#主题特性" class="headerlink" title="主题特性"></a>主题特性</h1><h2 id="添加页面"><a href="#添加页面" class="headerlink" title="添加页面"></a>添加页面</h2><p>在source目录下建立相应名称的文件夹，然后在文件夹中建立index.md文件，并在index.md的front-matter中设置layout为layout: page。若需要单栏页面，就将layout设置为 layout: single-column。hexo g，hexo d 就可以部署了。</p>
