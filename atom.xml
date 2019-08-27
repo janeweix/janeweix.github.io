@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-12T04:21:07.734Z</updated>
+  <updated>2019-08-27T10:32:38.265Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大四了</title>
+    <link href="http://yoursite.com/2019/08/27/%E5%A4%A7%E5%9B%9B%E4%BA%86/"/>
+    <id>http://yoursite.com/2019/08/27/大四了/</id>
+    <published>2019-08-26T16:00:00.000Z</published>
+    <updated>2019-08-27T10:32:38.265Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是2019年8月27日，9月2日大四就正式开课了。有点方。</p><a id="more"></a><p>大三下的暑假先是回了一趟老家，待了十天。之后回了学校，直到去浙江，这期间差不多一个月的时间都没怎么学习。懒散、没有动力，前端学了些皮毛就不继续学下去了。去浙江待了半个月，打乱了我原先的安排。我就想着要花几天调整一下我的心情还有接下来的学习计划，但是一直推迟，导致整个暑假过完了，我基本上都没怎么学习。<br>&nbsp;&nbsp;而且现在也不知从何学起。到现在为止，HTML、css、JavaScript、jQuery的网课看完了。后来学vue花了很多时间，因为遇到了很多问题，到现在也没怎么学懂，基本上算是没怎么学了。后来搭建了博客，又在百度前端技术学院（<a href="http://ife.baidu.com/）上报了名，跟着它的每天计划学前端。但这个学习计划一直被搁浅，现在大概也才完成第二天的学习任务。" target="_blank" rel="noopener">http://ife.baidu.com/）上报了名，跟着它的每天计划学前端。但这个学习计划一直被搁浅，现在大概也才完成第二天的学习任务。</a><br>&nbsp;&nbsp;总之就是我的执行力、学前端的决心还不够，不敢挑战自己。不知道以后能做什么工作，我也没什么兴趣爱好。下学期大四了，暂时的计划是，每天还是要继续学前端，但会空出时间去做做兼职。一直做一件事情（学习）又看不到什么实际的效果会让我很焦虑，还是劳逸结合比较好。还是希望对自己有要求，不要得过且过。虽然我有畏难情绪，但是每次我打开电脑，还是有打打代码的冲动，就是懒。懒的动手，光想想觉得难，但实际上也没那么难。解决了问题还是让人很有成就感的。<br>&nbsp;&nbsp;光想只会徒增烦恼、放大困难，实践才会有收获快乐。^_^ 所以我现在写了这篇博客。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天是2019年8月27日，9月2日大四就正式开课了。有点方。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="emotion" scheme="http://yoursite.com/categories/emotion/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>day2_在线简历（结构）</title>
@@ -68,26 +88,6 @@
     <summary type="html">
     
       &lt;p&gt;第一次面试大概在一个月前，既然搭建了博客，就记录一下。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="emotion" scheme="http://yoursite.com/categories/emotion/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>第一次面试</title>
-    <link href="http://yoursite.com/2019/07/21/%E5%A4%A7%E5%9B%9B%E4%BA%86/"/>
-    <id>http://yoursite.com/2019/07/21/大四了/</id>
-    <published>2019-07-20T16:00:00.000Z</published>
-    <updated>2019-08-27T10:20:28.644Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天是82019年8月27日，9月2日就大四正式开课了。有点方。</p><a id="more"></a><p>大三下的暑假先是回了一趟老家，待了十天。之后回了学校，知道去浙江，这期间差不多一个月的时间都没怎么学习。懒散、没有动力，前端学了些皮毛就不继续学下去了。因为后来又去浙江待了半个月。这半个月打乱了我原先的安排，我就想着要花几天调整一下我的心情还有接下来的学习计划。但是一直推迟，导致整个暑假过完了，我基本上就没怎么学习。<br>&nbsp;&nbsp;而且现在也不知从何学起。到现在为止，HTML、css、JavaScript、jQuery的网课看完了。后来学vue花了很多时间，因为遇到了很多问题，到现在也没怎么学懂，基本上算是没怎么学了。后来搭建了博客，又在百度前端技术学院（<a href="http://ife.baidu.com/）上报了名，跟着它的安排学前端。但这个学习计划一直被搁浅，现在也才大概完成到第二天的学习任务，因为我总共也没花多少时间在这个上面。" target="_blank" rel="noopener">http://ife.baidu.com/）上报了名，跟着它的安排学前端。但这个学习计划一直被搁浅，现在也才大概完成到第二天的学习任务，因为我总共也没花多少时间在这个上面。</a><br>&nbsp;&nbsp;总是就是我的执行力、学前端的决心还不够，不敢挑战自己。不知道以后能做什么工作，我也没什么兴趣爱好。下学期大四了，暂时的计划是，每天还是要继续学前端，但会空出时间去做做兼职。一直做一件事情（学习）又看不到什么实际的效果会让我很焦虑，还是劳逸结合比较好。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天是82019年8月27日，9月2日就大四正式开课了。有点方。&lt;/p&gt;
     
     </summary>
     
